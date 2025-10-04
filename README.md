@@ -66,7 +66,7 @@ Paper Code Mapper uses AI to create unified graphs connecting research papers an
 
 ## Demo Video
 
-<video src="./DEMO.mp4" controls width="100%"></video>
+(Found at the root level)
 
 ## Architecture
 
