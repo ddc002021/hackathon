@@ -1,0 +1,14 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-dotenv==1.0.0
+openai==1.54.0
+networkx==3.2.1
+pydantic==2.5.0
+python-multipart==0.0.6
+gitpython==3.1.40
+numpy==1.26.4
+scipy==1.11.4
+httpx==0.26.0
+RestrictedPython==6.2
+timeout-decorator==0.5.0
+PyPDF2==3.0.1
